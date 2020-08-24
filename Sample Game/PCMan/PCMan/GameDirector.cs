@@ -3,12 +3,18 @@
     class GameDirector
     {
         public Board Board { get; set; }
+        private GameDirector _Instance { get; set; }
 
-        public GameDirector()
+
+        public GameDirector GetInstance(Board board)
         {
-            Board = new Board();
+            if (_Instance == null)
+                _Instance = new GameDirector(board);
+            return _Instance;
         }
-        public GameDirector(Board board)
+
+
+        private GameDirector(Board board)
         {
             Board = board; 
         }

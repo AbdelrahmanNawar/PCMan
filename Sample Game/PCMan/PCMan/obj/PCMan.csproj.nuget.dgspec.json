@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Intro Work Shop\\Sample Game\\PCMan\\PCMan\\PCMan.csproj": {}
+    "P:\\Intro Work Shop\\Sample Game\\Sample Game\\PCMan\\PCMan\\PCMan.csproj": {}
   },
   "projects": {
-    "P:\\Intro Work Shop\\Sample Game\\PCMan\\PCMan\\PCMan.csproj": {
+    "P:\\Intro Work Shop\\Sample Game\\Sample Game\\PCMan\\PCMan\\PCMan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Intro Work Shop\\Sample Game\\PCMan\\PCMan\\PCMan.csproj",
+        "projectUniqueName": "P:\\Intro Work Shop\\Sample Game\\Sample Game\\PCMan\\PCMan\\PCMan.csproj",
         "projectName": "PCMan",
-        "projectPath": "P:\\Intro Work Shop\\Sample Game\\PCMan\\PCMan\\PCMan.csproj",
+        "projectPath": "P:\\Intro Work Shop\\Sample Game\\Sample Game\\PCMan\\PCMan\\PCMan.csproj",
         "packagesPath": "C:\\Users\\Abdelrahman.Nawar\\.nuget\\packages\\",
-        "outputPath": "P:\\Intro Work Shop\\Sample Game\\PCMan\\PCMan\\obj\\",
+        "outputPath": "P:\\Intro Work Shop\\Sample Game\\Sample Game\\PCMan\\PCMan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

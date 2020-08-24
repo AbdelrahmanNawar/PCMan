@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEQIhbZJhWsqoVhFC1SWbcz4Y2eIF4dkG8pMRTnt5mjWGR9DX8dRBXyFNiAm/uXyoJCFnnQBRAXaCnMW6/yirg==",
+  "dgSpecHash": "pVvmucw2GHbrS9wl5o6/Uz46j+syybQJu/sF9Ql53spQ6ilL+kyKyyrjGdgCBE2caI0LlWUkOrOOtRj6DI72dw==",
   "success": true,
-  "projectFilePath": "P:\\Intro Work Shop\\Sample Game\\PCMan\\PCMan\\PCMan.csproj",
+  "projectFilePath": "P:\\Intro Work Shop\\Sample Game\\Sample Game\\PCMan\\PCMan\\PCMan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdelrahman.Nawar\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
     "C:\\Users\\Abdelrahman.Nawar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

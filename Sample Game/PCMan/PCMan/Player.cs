@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Threading;
 
 namespace PCMan
 {
@@ -8,7 +9,19 @@ namespace PCMan
         public int Weapon { get; set; }
 
         public List<IKey> Keys { get; set; }
-        public Player()
+
+        private Player _Instance { get; set; }
+
+
+        public Player GetInstance()
+        {
+            if (_Instance == null)
+                _Instance = new Player();
+            return _Instance;
+        }
+
+
+        private Player()
         {
             Keys = new List<IKey>();
             Health = 100;
